@@ -30,7 +30,7 @@ The project was created to manage the list of items we have at home and the list
 
 ```
 # Clone the repo
-git clone https://github.com/sitek94/habit-tracker-app.git
+git clone https://github.com/promeraq/homeals-project.git
 
 # Install dependencies
 npm install
