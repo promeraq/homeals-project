@@ -1,0 +1,43 @@
+.btnA {
+    border-radius: 5px;
+    border-style: solid;
+    font-weight: bold;
+    width: 10%;
+    block-size: 40px;
+    margin-left: 850px;
+    margin-right: 50px;
+    border-color: red;
+    background-color: transparent;
+    color: red;
+  }
+
+  .btnA:hover, .btnU:hover, .btnD:hover {
+    background-color: red;
+    color: black;
+  }
+  
+  .btnU {
+    border-radius: 5px;
+    border-style:solid;
+    font-weight: bold;
+    width: 10%;
+    block-size: 40px;
+    margin-left: -20px;
+    margin-right: 50px;
+    border-color: red;
+    background-color: transparent;
+    color: red;
+  }
+
+  .btnD {
+    border-radius: 5px;
+    border-style:solid;
+    font-weight: bold;
+    width: 10%;
+    block-size: 40px;
+    margin-left: -20px;
+    margin-right: 50px;
+    border-color: red;
+    background-color: transparent;
+    color: red;
+  }

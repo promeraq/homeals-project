@@ -1,0 +1,22 @@
+.tr td {
+  padding-top: 10px;
+  width: 14rem;
+  color: white;
+  text-align: center;
+}
+
+
+.button {
+    border-radius: 5px;
+    border-style:solid;
+    font-weight: bold;
+    block-size: 20px;
+    border-color: red;
+    background-color: transparent;
+    color: red;
+  }
+
+  .button:hover {
+    background-color: red;
+    color: black;
+  }

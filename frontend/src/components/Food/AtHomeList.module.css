@@ -1,0 +1,25 @@
+.table {
+  padding-left: 90px;
+}
+
+.thead {
+    height: 100%;
+    list-style: none;
+    display: flex;
+  }
+  
+  .thead th {
+    font-weight: bold;
+    font-size: large;
+    width: 14rem;
+    padding-bottom: 5px;
+    border-bottom: 0.1mm;
+    border-bottom-color: white;
+    border-bottom-style: solid;
+  }
+
+  .foodli {
+    height: 100%;
+    list-style: none;
+    display: inline-block;
+  }
