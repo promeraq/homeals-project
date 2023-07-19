@@ -46,6 +46,4 @@ npm start
 4. “Start in test mode”
 5. Copy link and paste it in
 
-###### **Video Demo:**  
-https://youtu.be/TzvHim5Du5k
-This was CS50.
+
