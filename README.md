@@ -1,9 +1,8 @@
 # HOMEALS
-### **Video Demo:**  https://youtu.be/TzvHim5Du5k
-<br>
 
+<br>
 ### **About Me:** <br>
-Hey, my name is Pablo Romera and I'm from San Sebastián in northern Spain. This CS50 project manages the list of food items we have at home and the shopping list to buy the ones needed. <br>
+This project manages the list of food items we have at home and the shopping list to buy the ones needed. <br>
 <br>
 
 ### **Description:** <br>
@@ -48,5 +47,6 @@ npm start
 4. “Start in test mode”
 5. Copy link and paste it in
 
-
+###### **Video Demo:**  
+https://youtu.be/TzvHim5Du5k
 This was CS50.
