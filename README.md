@@ -1,7 +1,6 @@
 # HOMEALS
 
-<br>
-### **About Me:** <br>
+### **About:** <br>
 This project manages the list of food items we have at home and the shopping list to buy the ones needed. <br>
 <br>
 
